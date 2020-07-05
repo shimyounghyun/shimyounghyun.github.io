@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f5919d7-a89d-42cb-acff-3804905235b0" name="Default Changelist" comment="" />
+    <list default="true" id="2f5919d7-a89d-42cb-acff-3804905235b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/2020-07-04__10.08.05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/2020-07-04__10.12.25.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/IDE/2020-07-05-intelliJ_설정.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/IDE/2020-07-05-intelliJ_설정.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +49,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -55,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593904211230</updated>
       <workItem from="1593904213864" duration="124000" />
-      <workItem from="1593931160439" duration="6713000" />
+      <workItem from="1593931160439" duration="7060000" />
     </task>
     <servers />
   </component>

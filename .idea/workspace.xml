@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5919d7-a89d-42cb-acff-3804905235b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_pages/category-archive.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/알고리즘/2020-07-05-shortest_palindrome.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/알고리즘/2020-07-05-shortest_palindrome.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-07-04-first.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593904211230</updated>
       <workItem from="1593904213864" duration="124000" />
-      <workItem from="1593931160439" duration="5706000" />
+      <workItem from="1593931160439" duration="6332000" />
     </task>
     <servers />
   </component>

@@ -1,6 +1,7 @@
 ---
 title : "[leetcode] Shortest Palindrome"
 toc : true
+toc_sticky: true
 categories :
     - 알고리즘
 tag :

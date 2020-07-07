@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5919d7-a89d-42cb-acff-3804905235b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/Spring &amp; SpringBoot/2020-07-06-dependencyValid.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/Spring &amp; SpringBoot/2020-07-06-springboot.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/강의/2020-07-06-inflearn01.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/TDD/2020-07-07-junit5_param.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +64,9 @@
       <updated>1593904211230</updated>
       <workItem from="1593904213864" duration="124000" />
       <workItem from="1593931160439" duration="7060000" />
-      <workItem from="1593998058768" duration="5687000" />
+      <workItem from="1593998058768" duration="5960000" />
+      <workItem from="1594026818977" duration="789000" />
+      <workItem from="1594076999856" duration="1931000" />
     </task>
     <servers />
   </component>

@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5919d7-a89d-42cb-acff-3804905235b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/Spring &amp; SpringBoot/2020-07-08-divideTestDB.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/2020-07-08_2.40.29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/IDE/2020-07-08-intellij_단축키.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/IDE/2020-07-05-intelliJ_설정.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/IDE/2020-07-05-intelliJ_설정.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,7 @@
       <workItem from="1594026818977" duration="789000" />
       <workItem from="1594076999856" duration="2657000" />
       <workItem from="1594104517287" duration="310000" />
-      <workItem from="1594184860339" duration="3051000" />
+      <workItem from="1594184860339" duration="3670000" />
     </task>
     <servers />
   </component>

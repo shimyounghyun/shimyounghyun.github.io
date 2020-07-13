@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5919d7-a89d-42cb-acff-3804905235b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/자료구조/2020-07-13-hashmap.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/IDE/2020-07-08-intellij_단축키.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/IDE/2020-07-08-intellij_단축키.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +46,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -71,6 +74,7 @@
       <workItem from="1594184860339" duration="4467000" />
       <workItem from="1594252826614" duration="1369000" />
       <workItem from="1594268509999" duration="2145000" />
+      <workItem from="1594614322716" duration="721000" />
     </task>
     <servers />
   </component>

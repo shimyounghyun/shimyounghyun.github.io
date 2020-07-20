@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5919d7-a89d-42cb-acff-3804905235b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/자료구조/2020-07-13-hashmap.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/CI &amp; CD/2020-07-20-studyCI&amp;CD.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/Docker/2020-07-20-postgresErr.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +75,8 @@
       <workItem from="1594184860339" duration="4467000" />
       <workItem from="1594252826614" duration="1369000" />
       <workItem from="1594268509999" duration="2145000" />
-      <workItem from="1594614322716" duration="721000" />
+      <workItem from="1594614322716" duration="2942000" />
+      <workItem from="1595208730713" duration="2075000" />
     </task>
     <servers />
   </component>
@@ -94,13 +96,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="440" y="184" key="#Plugins" timestamp="1594707783171">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="440" y="184" key="#Plugins/0.23.1680.1027@0.23.1680.1027" timestamp="1594707783171" />
     <state x="632" y="145" width="596" height="783" key="find.popup" timestamp="1593936574645">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="632" y="145" width="596" height="783" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1593936574645" />
-    <state x="1254" y="436" key="new project wizard" timestamp="1594268691186">
-      <screen x="0" y="23" width="2560" height="1337" />
+    <state x="468" y="257" key="new project wizard" timestamp="1594705077267">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
+    <state x="468" y="257" key="new project wizard/0.23.1680.1027@0.23.1680.1027" timestamp="1594705077267" />
     <state x="1254" y="436" key="new project wizard/0.23.2560.1337@0.23.2560.1337" timestamp="1594268691186" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1594707767335">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1594707767335" />
   </component>
 </project>

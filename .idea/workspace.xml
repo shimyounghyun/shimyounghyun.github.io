@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5919d7-a89d-42cb-acff-3804905235b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/CI &amp; CD/2020-07-20-studyCI&amp;CD.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/Docker/2020-07-20-postgresErr.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +74,7 @@
       <workItem from="1594252826614" duration="1369000" />
       <workItem from="1594268509999" duration="2145000" />
       <workItem from="1594614322716" duration="2942000" />
-      <workItem from="1595208730713" duration="2075000" />
+      <workItem from="1595208730713" duration="2882000" />
     </task>
     <servers />
   </component>

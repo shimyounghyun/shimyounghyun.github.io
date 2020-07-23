@@ -88,8 +88,8 @@ docker설치 과정은 [이곳](https://velog.io/@wimes/AWS-EC2%EC%97%90-Docker-
 ### shell script 작성
 blue/green 배포 방식으로 이미 누군가 잘 작성해놓은 것을 수정하여 사용했다.   
 docker build완료 후 docker hub에 이미지가 최신화가 되었을 때 실행되는 deploy.sh파일
-```shell script
-\#!/bin/bash
+```text
+#!/bin/bash
 
 DOCKER_APP_NAME=server
 DOCKER_DB_NAME=postgres
@@ -225,5 +225,5 @@ server {
 ```
 
 ### 참조
-https://smjeon.dev/web/deploy-with-jenkins-4/#nginxconf
-https://github.com/JHyeok/jaebook-server
+- https://smjeon.dev/web/deploy-with-jenkins-4/#nginxconf
+- https://github.com/JHyeok/jaebook-server

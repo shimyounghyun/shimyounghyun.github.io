@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f5919d7-a89d-42cb-acff-3804905235b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/CI &amp; CD/2020-07-23-practice_cicd.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/TDD/2020-07-22-codecoverage.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/CI &amp; CD/2020-07-20-studyCI&amp;CD.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/CI &amp; CD/2020-07-20-studyCI&amp;CD.md" afterDir="false" />
-    </list>
+    <list default="true" id="2f5919d7-a89d-42cb-acff-3804905235b0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +72,7 @@
       <workItem from="1594252826614" duration="1369000" />
       <workItem from="1594268509999" duration="2145000" />
       <workItem from="1594614322716" duration="2942000" />
-      <workItem from="1595208730713" duration="10839000" />
+      <workItem from="1595208730713" duration="11013000" />
     </task>
     <servers />
   </component>

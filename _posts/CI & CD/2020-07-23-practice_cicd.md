@@ -8,7 +8,7 @@ tag :
 
 ### CI, CD 대략적인 과정
 
-```
+```text
 ci  
 push / pull-request -> github action job 실행 -> 테스트/리포팅 -> docker build & push
 
@@ -53,11 +53,11 @@ jobs:
           docker build -t syh622/connected-42 .
       - name: Docker push
         run: |
-          docker login -u ${{ secrets.DOCKER_USER }} -p ${{ secrets.DOCKER_PASSWORD }}
+          docker login -u $secrets.DOCKER_USER -p $secrets.DOCKER_PASSWORD
           docker tag syh622/connected-42 syh622/connected-42:latest
-          docker tag syh622/connected-42 syh622/connected-42:${{ github.sha }}
+          docker tag syh622/connected-42 syh622/connected-42:$github.sha
           docker push syh622/connected-42:latest
-          docker push syh622/connected-42:${{ github.sha }}
+          docker push syh622/connected-42:$github.sha
  cd:
     name: Push Docker image to Docker Hub
     runs-on: ubuntu-latest
@@ -67,10 +67,10 @@ jobs:
       - name: SSH and Build Docker image and Push
         uses: appleboy/ssh-action@master
         with:
-          host: ${{ secrets.HOST }}
-          username: ${{ secrets.USERNAME }}
-          key: ${{ secrets.KEY }}
-          port: ${{ secrets.PORT }}
+          host: $secrets.HOST
+          username: $secrets.USERNAME
+          key: $secrets.KEY
+          port: $secrets.PORT
           script: |
             sh deploy.sh
 ```

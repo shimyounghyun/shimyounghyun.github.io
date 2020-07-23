@@ -86,10 +86,10 @@ docker설치 과정은 [이곳](https://velog.io/@wimes/AWS-EC2%EC%97%90-Docker-
 추가로 docker-compose, nginx 패키지를 설치한다.
 
 ### shell script 작성
-blue/green 배포 방식으로 이미 누군가 잘 작성해놓은 것을 조금 수정하여 사용했다.   
+blue/green 배포 방식으로 이미 누군가 잘 작성해놓은 것을 수정하여 사용했다.   
 docker build완료 후 docker hub에 이미지가 최신화가 되었을 때 실행되는 deploy.sh파일
 ```shell script
-#!/bin/bash
+\#!/bin/bash
 
 DOCKER_APP_NAME=server
 DOCKER_DB_NAME=postgres
@@ -122,7 +122,7 @@ fi
 ```
     
 blue
-```shell script
+```yaml
 version: '3.7'
 services:
   server:
@@ -149,7 +149,7 @@ volumes:
 ````
   
 green  
-```shell script
+```yaml
 version: '3.7'
 services:
   server:
@@ -178,7 +178,7 @@ volumes:
 [wait-for-it.sh](https://raw.githubusercontent.com/vishnubob/wait-for-it/master/wait-for-it.sh)를 사용했다.
   
 db
-```shell script
+```yaml
 version: '3.7'
 
 services:

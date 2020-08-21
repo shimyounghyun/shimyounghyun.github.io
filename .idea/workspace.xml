@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f5919d7-a89d-42cb-acff-3804905235b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/알고리즘/2020-08-10-union_find.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/암호/2020-08-21-hill.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +77,8 @@
       <workItem from="1594614322716" duration="2942000" />
       <workItem from="1595208730713" duration="11013000" />
       <workItem from="1595491593966" duration="867000" />
-      <workItem from="1597032016099" duration="2652000" />
+      <workItem from="1597032016099" duration="2701000" />
+      <workItem from="1597989245086" duration="2160000" />
     </task>
     <servers />
   </component>
